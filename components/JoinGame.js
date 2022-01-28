@@ -19,7 +19,7 @@ export default class JoinGame extends Component {
 
                 <Text style={{ fontSize: 5 }}>{"\n"}</Text>
 
-                <Image source={{ uri: 'https://www.plrassassin.com/wp-content/uploads/2016/07/Intelligence-Battle-Plan.png' }}
+                <Image source={{ uri: 'https://github.com/Peeyush0106/Squizzy/blob/main/Intelligence-Battle-Plan.png?raw=true' }}
                     style={{ width: "100%", height: "70%" }}
                 />
 
